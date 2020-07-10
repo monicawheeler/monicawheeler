@@ -7,4 +7,5 @@ I am an avid learner and determined developer advocate. I lead with empathy, men
 #### Contact me
 
 💻 [LinkedIn](https://www.linkedin.com/in/monicacwheeler/)
+
 📫 [Email](mailto:monica.c.wheeler@gmail.com)
