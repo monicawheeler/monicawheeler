@@ -1,4 +1,4 @@
-### Senior UX Developer at [DockYard, Inc](https://dockyard.com/blog/authors/monica-wheeler)
+### Senior UX Developer at [Kajabi](https://grnh.se/cd0501ee3us)
 
 #### Hello 👋
 
