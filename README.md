@@ -1,4 +1,4 @@
-### Senior UX Developer at [Kajabi](https://grnh.se/cd0501ee3us)
+### Engineering Manager at [Kajabi](https://grnh.se/cd0501ee3us)
 
 #### Hello 👋
 
