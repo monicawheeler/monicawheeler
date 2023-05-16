@@ -2,7 +2,7 @@
 
 #### Hello 👋
 
-I am an avid learner and determined developer advocate. I lead with empathy, mentor with compassion, and build technology that focuses on accessibility and usability at the forefront. 
+As an Engineering Manager for a Design System Services team, I lead in bridging design and development to create scalable, accessible, and user-friendly components. My passion for continuous learning fuels innovation, fostering a collaborative environment that empowers my team to exceed user expectations. 
 
 #### Contact me
 
