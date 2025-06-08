@@ -1,8 +1,8 @@
-### Engineering Manager at [Kajabi](https://grnh.se/cd0501ee3us)
+### Engineering Manager 
 
 #### Hello 👋
 
-As an Engineering Manager for a Design System Services team, I lead in bridging design and development to create scalable, accessible, and user-friendly components. My passion for continuous learning fuels innovation, fostering a collaborative environment that empowers my team to exceed user expectations. 
+As an Engineering Manager, I lead in bridging design and development to create scalable, accessible, and user-friendly applications. My passion for continuous learning fuels innovation, fostering a collaborative environment that empowers engineers to exceed user expectations. 
 
 #### Contact me
 
