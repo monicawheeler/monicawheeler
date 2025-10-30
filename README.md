@@ -1,8 +1,8 @@
-### Engineering Manager 
+### Engineering Leader 
 
 #### Hello 👋
 
-As an Engineering Manager, I lead in bridging design and development to create scalable, accessible, and user-friendly applications. My passion for continuous learning fuels innovation, fostering a collaborative environment that empowers engineers to exceed user expectations. 
+Building bridges between design and engineering through well-documented, accessible front-end systems. I focus on scalable component architecture, MDX/Storybook documentation pipelines, and UI patterns that empower developers to ship confidently.
 
 #### Contact me
 
