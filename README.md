@@ -2,7 +2,7 @@
 
 #### Hello 👋
 
-Building bridges between design and engineering through well-documented, accessible front-end systems. I focus on scalable component architecture, MDX/Storybook documentation pipelines, and UI patterns that empower developers to ship confidently.
+Engineering Manager focused on scaling high-performing remote teams and aligning cross-functional execution around technical strategy and developer experience. Committed to fostering psychological safety, continuous mentorship, and high-trust engineering cultures that consistently deliver reliable, high-impact products.
 
 #### Contact me
 
