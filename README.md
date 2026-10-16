@@ -2,7 +2,7 @@
 
 #### Hello 👋
 
-Engineering Manager focused on scaling high-performing remote teams and aligning cross-functional execution around technical strategy and developer experience. Committed to fostering psychological safety, continuous mentorship, and high-trust engineering cultures that consistently deliver reliable, high-impact products.
+Technical Contributor bridging complex software architecture with team enablement. Focused on designing modern front-end platforms, optimizing developer workflows, and aligning technical execution with product vision. Champion of continuous learning, architectural excellence, and robust product delivery.
 
 #### Contact me
 
